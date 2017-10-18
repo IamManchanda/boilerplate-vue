@@ -1,4 +1,4 @@
-<template lang="html">
+<template>
   <div class="top-bar">
     <div class="top-bar-left">
       <ul class="dropdown menu">
