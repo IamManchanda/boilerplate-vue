@@ -4,12 +4,12 @@
       <ul class="dropdown menu">
         <li class="menu-text">Vue Project</li>
         <li>
-          <router-link to="/">
+          <router-link :to="{ name: 'home' }">
             Home
           </router-link>
         </li>
         <li>
-          <router-link to="/projects">
+          <router-link :to="{ name: 'projects' }">
             Projects
           </router-link>
         </li>
