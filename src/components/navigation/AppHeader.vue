@@ -13,6 +13,11 @@
             Projects
           </router-link>
         </li>
+        <li>
+          <router-link :to="{ name: 'timeline-home' }">
+            Timeline
+          </router-link>
+        </li>
       </ul>
     </div>
     <div class="top-bar-right">
