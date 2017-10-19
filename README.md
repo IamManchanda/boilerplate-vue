@@ -1,6 +1,6 @@
 # Vue.js Boilerplate for your next awesome project
 
-> Includes Vue.js, Vuex, Vue Router and Axios!
+> Includes Vue.js, Vuex, Vue Router, Axios and Webpack!
 
 ## Build Setup (NPM)
 
