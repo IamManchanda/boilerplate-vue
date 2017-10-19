@@ -2,8 +2,8 @@ import Vue from 'vue';
 import Router from 'vue-router';
 
 // Containers === Smart Components === Pages!
-import AppHome from '@/containers/AppHome';
-import AppProjects from '@/containers/AppProjects';
+import AppHome from '@/containers/home/AppHome';
+import AppProjects from '@/containers/projects/AppProjects';
 
 // Use Vue Router
 Vue.use(Router);
